@@ -1,6 +1,5 @@
 # Hi there! I'm Sumaila Ma-aruf  😊
 
----
 
 🎓 **Student of IT at the AAMUSTED, Ghana** 
 📍 **From and Lives in Tamale**  
@@ -20,10 +19,10 @@ I’m passionate about web design and programming, always striving to improve my
 ---
 
 📈 **GitHub Stats:**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=issues&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaarufMeek&show_icons=true&hide=issues&theme=radical)  
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaarufMeek&layout=compact&theme=radical)
 
 ---
 
